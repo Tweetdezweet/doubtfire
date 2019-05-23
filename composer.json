@@ -1,0 +1,8 @@
+{
+    "name": "tweetdezweet/test-meta-package",
+    "version": "1.0.0",
+    "type": "metapackage",
+    "require": {
+        "guid/snowflake": "1.0.0"
+    }
+}
